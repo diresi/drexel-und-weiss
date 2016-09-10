@@ -1,0 +1,16 @@
+drexel und weiss dokumente
+
+Raumsteuerung:
+  drexel und weiss RBG-V (Raumbediengerät V)
+  -> offenbar nur mit aerosilent micro-v kompatibel
+  -> aerosilent micro-v: dezentrales gerät ("vbox") zur zuluft-/abluftsteuerung (unteres klo)
+  -> anschluss: rj45 kat5, aber eigenes wiring (24V!)
+
+  https://de.wikipedia.org/wiki/Modbus#RTU-Modus
+
+  ups, modbus nur via adapter...
+
+
+  zB http://www.drexel-weiss.at/app/uploads/2015/10/900.5075_02_EA_vbox_120_DE.pdf.download
+  -> psiioNET bzw das komische psiio RBG-H gerät
+
